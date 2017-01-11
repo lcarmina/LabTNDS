@@ -17,3 +17,4 @@ class FunzioneSeno : public FunzioneBase {
 };
 
 #endif
+
